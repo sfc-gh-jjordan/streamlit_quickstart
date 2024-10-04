@@ -27,7 +27,7 @@
   
   * Creates a stored procedure to execute sql n times based on n of users
     
-  * Set the initial password in the create user statement
+  * Set the initial password in the line of code: "set lab_pwd = ''; -- enter initial password here"
   
   * Creates a role, warehouse, schema and user such as Schema1, Role1, WH1, User1 for each HOL user
   
